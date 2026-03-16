@@ -84,9 +84,9 @@ Technologies
 
 ---
 
-[//]# 📊 GitHub Stats
+<!--# 📊 GitHub Stats
 
-<!-- <p align="center">
+ <p align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omkarsatpute&show_icons=true&theme=tokyonight"/>
 
@@ -96,9 +96,9 @@ Technologies
 
 ---
 
-[//]# 🔥 GitHub Streak
+<!--# 🔥 GitHub Streak
 
-<!-- <p align="center">
+ <p align="center">
 
 <img src="https://streak-stats.demolab.com/?user=omkarsatpute&theme=tokyonight"/>
 
