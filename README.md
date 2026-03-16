@@ -57,7 +57,7 @@ Technologies
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
 ---
@@ -84,7 +84,7 @@ Technologies
 
 ---
 
-# 📊 GitHub Stats
+[//]# 📊 GitHub Stats
 
 <!-- <p align="center">
 
@@ -96,7 +96,7 @@ Technologies
 
 ---
 
-# 🔥 GitHub Streak
+[//]# 🔥 GitHub Streak
 
 <!-- <p align="center">
 
