@@ -82,9 +82,9 @@ Technologies
 * ChatGPT / Claude
 * AI-powered automation tools
 
----
+<!-----
 
-<!--# 📊 GitHub Stats
+# 📊 GitHub Stats
 
  <p align="center">
 
@@ -92,9 +92,9 @@ Technologies
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarsatpute&layout=compact&theme=tokyonight"/>
 
-</p> -->
+</p> 
 
----
+--- -->
 
 <!--# 🔥 GitHub Streak
 
@@ -102,9 +102,9 @@ Technologies
 
 <img src="https://streak-stats.demolab.com/?user=omkarsatpute&theme=tokyonight"/>
 
-</p> -->
+</p>
 
----
+--- -->
 
 # 🚀 Featured Projects
 
