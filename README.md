@@ -156,8 +156,8 @@ Key Contributions
 
 ## 🧠 RAG Powered Knowledge Assistant
 
-🔗 **Live Demo:** https://your-demo-link.com  
-📂 **GitHub Repo:** https://github.com/your-repo-link  
+🔗 **Live Demo:** https://knowledge-assistant-iota.vercel.app/
+📂 **GitHub Repo:** https://github.com/omkar402/knowledge-assistant 
 
 🚀 **Overview**  
 A full-stack AI-powered knowledge assistant that enables users to query documents using natural language and receive accurate, citation-backed answers.
