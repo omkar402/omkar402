@@ -156,7 +156,7 @@ Key Contributions
 
 ## 🧠 RAG Powered Knowledge Assistant
 
-🔗 **Live Demo:** https://knowledge-assistant-iota.vercel.app/
+🔗 **Live Demo:** https://knowledge-assistant-iota.vercel.app/ <br>
 📂 **GitHub Repo:** https://github.com/omkar402/knowledge-assistant 
 
 🚀 **Overview**  
