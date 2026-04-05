@@ -152,14 +152,17 @@ Key Contributions
 
 ---
 
-# 🤖 AI Work
+🤖 AI Work
+🧠 RAG Powered Knowledge Assistant
+🔗 Live Demo: https://knowledge-assistant-iota.vercel.app/
+📂 GitHub Repo: https://github.com/omkar402/knowledge-assistant
 
-### LLM Support Chatbot (POC)
+Built a full-stack RAG app using Node.js, Vue 3, LangChain, and ChromaDB to query documents via natural language with citation-backed answers
+Implemented a custom SemanticChunker using HuggingFace embeddings and cosine similarity for semantic-boundary document splitting, improving retrieval relevance by ~40% over fixed-size chunking
+Designed JWT auth with team collaboration and shared Knowledge Base management backed by MongoDB
+Integrated LangChain document loaders (PDF, DOCX, CSV, web scraping) with automatic chunking and vector embedding on upload
 
-* Designed **LLM-based support chatbot**
-* Built using **OpenAI APIs**
-* Explored automated knowledge workflows
-* Defined architecture for AI-assisted support systems
+
 
 <!-- ---
 
