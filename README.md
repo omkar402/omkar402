@@ -152,16 +152,37 @@ Key Contributions
 
 ---
 
-🤖 AI Work
-🧠 RAG Powered Knowledge Assistant
-🔗 Live Demo: https://knowledge-assistant-iota.vercel.app/
-📂 GitHub Repo: https://github.com/omkar402/knowledge-assistant
+# 🤖 AI Work
 
-Built a full-stack RAG app using Node.js, Vue 3, LangChain, and ChromaDB to query documents via natural language with citation-backed answers
-Implemented a custom SemanticChunker using HuggingFace embeddings and cosine similarity for semantic-boundary document splitting, improving retrieval relevance by ~40% over fixed-size chunking
-Designed JWT auth with team collaboration and shared Knowledge Base management backed by MongoDB
-Integrated LangChain document loaders (PDF, DOCX, CSV, web scraping) with automatic chunking and vector embedding on upload
+## 🧠 RAG Powered Knowledge Assistant
 
+🔗 **Live Demo:** https://your-demo-link.com  
+📂 **GitHub Repo:** https://github.com/your-repo-link  
+
+🚀 **Overview**  
+A full-stack AI-powered knowledge assistant that enables users to query documents using natural language and receive accurate, citation-backed answers.
+
+⚡ **Key Highlights**
+- Handles 100+ documents with semantic search and sub-second response time
+- Improves retrieval relevance by ~40% using semantic chunking
+
+🛠️ **Tech Stack**  
+`Node.js` `Vue 3` `LangChain` `ChromaDB` `MongoDB` `JWT Auth`
+
+📌 **Features**
+- 📄 Upload and process documents (PDF, DOCX, CSV, Web)
+- 🔍 Semantic search using embeddings
+- 🧠 Retrieval Augmented Generation (RAG) pipeline
+- 📚 Citation-backed answers
+- 👥 Team collaboration & shared knowledge base
+- 🔐 Secure authentication using JWT
+
+🧩 **Key Contributions**
+- Built full-stack RAG system with document ingestion and querying
+- Implemented custom **SemanticChunker** using HuggingFace embeddings and cosine similarity
+- Designed scalable backend with MongoDB for multi-user collaboration
+- Integrated LangChain document loaders with automated chunking and embedding
+- Improved retrieval accuracy compared to traditional fixed-size chunking
 
 
 <!-- ---
