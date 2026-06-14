@@ -29,8 +29,12 @@ Full Stack Developer with <b>3+ years of experience</b> building scalable SaaS a
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,python" />
+<img src="https://skillicons.dev/icons?i=js,ts,python" />
 </p>
+
+`JavaScript (ES6+)` `TypeScript` `Python`
+
+---
 
 ### 🎨 Frontend
 
@@ -38,8 +42,7 @@ Full Stack Developer with <b>3+ years of experience</b> building scalable SaaS a
 <img src="https://skillicons.dev/icons?i=vue,nuxt,html,css" />
 </p>
 
-Technologies
-`Vue.js` `JavaScript` `HTML` `CSS` `Vuetify` `Pinia`
+`Vue.js` `JavaScript` `HTML5` `CSS3` `Vuetify` `Pinia` `Webpack` `Babel`
 
 ---
 
@@ -49,7 +52,6 @@ Technologies
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-Technologies
 `Node.js` `Express.js` `REST APIs` `JWT` `OAuth`
 
 ---
@@ -60,6 +62,8 @@ Technologies
 <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
+`MongoDB` `ChromaDB` `FAISS` `Vector Databases`
+
 ---
 
 ### ☁️ DevOps & Cloud
@@ -68,43 +72,31 @@ Technologies
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,jenkins" />
 </p>
 
-Technologies
-`AWS` `Docker` `Git` `Jenkins` `ArgoCD`
+`AWS` `Docker` `Git` `Jenkins` `ArgoCD` `API Gateway` `CDN` `Git`
 
 ---
 
 ### 🤖 AI / GenAI Stack
 
-* LangChain
-* Large Language Models (LLMs)
-* Retrieval Augmented Generation (RAG)
-* OpenAI APIs
-* ChatGPT / Claude
-* AI-powered automation tools
+#### 🧠 LLM & Generative AI
+`LLMs` `Transformer Architecture` `Attention Mechanisms` `Fine-tuning` `Prompt Engineering` `Hyperparameter Tuning` `Hugging Face Transformers`
 
-<!-----
+#### 🕹️ AI Agents & Orchestration
+`Multi-Agent Systems` `Multi-Step Planning` `Tool-Use Patterns` `Agent Memory (Short-term & Long-term)` `LangChain` `LangGraph` `CrewAI`
 
-# 📊 GitHub Stats
+#### 📚 RAG & Knowledge Systems
+`Retrieval-Augmented Generation (RAG)` `Semantic Chunking` `Embedding Generation` `Document Ingestion Pipelines` `External Knowledge Integration` `Semantic Search`
 
- <p align="center">
+#### 🗄️ Vector Databases
+`FAISS` `ChromaDB` `Vector Indexing Algorithms` `Similarity Search`
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=omkarsatpute&show_icons=true&theme=tokyonight"/>
+#### 📊 Evaluation & Observability
+`Evals` `Model Performance Metrics` `Langfuse` `Guardrails`
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarsatpute&layout=compact&theme=tokyonight"/>
+#### 🐍 ML Libraries
+`TensorFlow` `PyTorch` `Scikit-learn` `Data Preprocessing` `Vectorization` `OpenAI APIs`
 
-</p> 
-
---- -->
-
-<!--# 🔥 GitHub Streak
-
- <p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=omkarsatpute&theme=tokyonight"/>
-
-</p>
-
---- -->
+---
 
 # 🚀 Featured Projects
 
@@ -184,18 +176,7 @@ A full-stack AI-powered knowledge assistant that enables users to query document
 - Integrated LangChain document loaders with automated chunking and embedding
 - Improved retrieval accuracy compared to traditional fixed-size chunking
 
-
-<!-- ---
-
-# 📈 Contribution Graph
-
- <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omkarsatpute&theme=tokyo-night"/>
-
-</p>
-
---- -->
+---
 
 # 🌐 Connect With Me
 
